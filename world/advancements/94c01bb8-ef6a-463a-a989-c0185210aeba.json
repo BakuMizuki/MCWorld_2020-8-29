@@ -551,6 +551,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2020-09-05 09:52:18 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2020-08-29 13:17:14 +0800"
@@ -634,6 +640,7 @@
       "minecraft:piglin": "2020-08-29 22:40:57 +0800",
       "minecraft:enderman": "2020-08-29 22:01:35 +0800",
       "minecraft:zombie": "2020-08-29 20:26:19 +0800",
+      "minecraft:drowned": "2020-09-05 19:34:27 +0800",
       "minecraft:zombie_villager": "2020-08-30 18:04:12 +0800"
     },
     "done": false
@@ -1058,6 +1065,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2020-09-05 09:52:18 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2020-08-29 20:29:20 +0800"
@@ -1163,6 +1176,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-08-29 21:39:03 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2020-09-05 13:50:08 +0800"
     },
     "done": true
   },
@@ -1792,6 +1811,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2020-09-05 13:50:08 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2020-08-29 13:31:24 +0800"
@@ -2221,6 +2246,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-08-29 21:22:31 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/use_lodestone": {
+    "criteria": {
+      "use_lodestone": "2020-09-05 11:20:39 +0800"
     },
     "done": true
   },
@@ -2782,6 +2813,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2020-09-05 09:52:18 +0800"
+    },
+    "done": true
+  },
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_hoglin_stable": "2020-09-04 20:38:47 +0800"
@@ -2815,6 +2852,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2020-08-31 20:33:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2020-09-05 12:14:27 +0800"
     },
     "done": true
   },
